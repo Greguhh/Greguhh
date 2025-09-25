@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+My name is Gregory Li, and I'm a freshman at the University of Washington studying Computer Science.
 
 <!--
 **Greguhh/Greguhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
