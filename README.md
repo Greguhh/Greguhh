@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Greguhh)
 -->
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Greguhh)
+
